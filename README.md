@@ -1,10 +1,8 @@
 <h1>Hi I'm Prome 👋</h1>
 
-<h3 align="center">I'm a student and concentrating on programming languages learning</h3>
+<h3 align="center">I am a postgraduate student and enthusiastic about my research works </h3>
 
-- 🔭 I’m currently working on **learning and practicing competitive programming in c++**
-
-- 🌱 I’m currently learning **c++**
+- 🔭 I’m currently working on **thesis**
 
 - 📫 How to reach me **promesaharesha5678@gmail.com**
 
