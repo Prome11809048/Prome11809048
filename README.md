@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prome 👋</h1>
 
-<img align="right" src="https://github.com/Prome11809048/Prome11809048/blob/main/github.gif" width="150" />
+<img align="right" src="https://github.com/Prome11809048/Prome11809048/blob/main/github.gif" width="250" height="200" />
 
 <h3 align="center">Aspiring Data Scientist | Passionate about Machine Learning & Data-Driven Thinking</h3>
 
