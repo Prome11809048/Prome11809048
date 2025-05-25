@@ -39,7 +39,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/> </a>
 
   <!-- Colab -->
-  <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_logo.svg" alt="colab" width="40" height="40"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/Prome11809048/Prome11809048/blob/main/Google_Colaboratory_SVG_Logo.svg.png" alt="colab" width="60" height="40"/> </a>
 
   <!-- IDE -->
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
